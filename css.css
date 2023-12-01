@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+header {
+      background-image: url( "images/download.jpg");
+      background-size: cover;
+      height: 300px;
+    }
